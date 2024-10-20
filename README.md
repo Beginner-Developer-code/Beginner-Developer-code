@@ -6,7 +6,7 @@ I enjoy working in web development using fundamental technologies like HTML, CSS
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,c,cpp,java&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,c,cpp,java,aws&perline=3)](https://skillicons.dev)
 
 ## Operative Systems
 
